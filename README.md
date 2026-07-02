@@ -86,12 +86,12 @@ My primary goal is to become an **industry-ready software engineer** with strong
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSivakumar123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/DhivyaSivakumar123/DhivyaSivakumar123/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 > 💡 *Stats, streak, and activity graph update automatically from your GitHub activity — no manual editing needed.*
-> 🐍 *The snake animation needs a one-time setup via a GitHub Action (see note below).*
+> 🐍 *The snake animation needs a one-time setup via a GitHub Action (see note below).* -->
 
 ---
 
