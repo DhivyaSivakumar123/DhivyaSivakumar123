@@ -100,32 +100,19 @@ My primary goal is to become an **industry-ready software engineer** with strong
 #### 💰 [LoanAI-Predictor](#)
 > An AI-powered loan eligibility prediction platform that helps financial institutions make faster, data-driven lending decisions while giving applicants transparent eligibility insights.
 
-Automates preliminary loan screening using supervised ML models trained on historical lending data — analyzing income, credit history, employment, and more to predict approval probability, risk category, and confidence score in seconds.
-
-- **Highlights:** explainable AI predictions · REST API architecture · admin dashboard · model performance analytics
-- **ML Pipeline:** data cleaning → feature engineering → model training/tuning (Logistic Regression, Random Forest, Decision Tree, XGBoost, Gradient Boosting) → deployment of best-performing model
-- **Stack:** React, Tailwind CSS, Chart.js · Node.js, Express.js · MongoDB · Python, Scikit-learn, Pandas, NumPy · Docker, Vercel, Render
-- **Target users:** Banks, NBFCs, FinTech companies, credit unions, loan consultants
-- 🔗 Live demo: *loanai-predictor.vercel.app* 
+**Highlights:** Explainable AI predictions with confidence & risk scoring, backed by a REST API architecture, admin dashboard, and model performance analytics
+- **ML Pipeline & Stack:** Data cleaning → feature engineering → model tuning across Logistic Regression, Random Forest, Decision Tree, XGBoost & Gradient Boosting, built on React/Tailwind/Chart.js, Node.js/Express, MongoDB, and Python/Scikit-learn, containerized with Docker
+- **Built for:** Banks, NBFCs, FinTech companies, credit unions & loan consultants
+- 🔗 Live demo: [loanai-predictor.vercel.app](https://loanai-predictor.vercel.app)
 
 #### 🩺 [MediMind-AI](#)
 > An AI-powered healthcare assistant delivering intelligent symptom analysis, disease prediction, and personalized health insights using Machine Learning and LLMs.
 
-Users describe symptoms via text or voice; the app combines ML, NLP, and generative AI to surface possible conditions, confidence scores, and preventive recommendations — designed as an assistive tool, not a diagnostic replacement.
+- **Highlights:** AI symptom checker, medical chatbot, and risk assessment with voice input & medical history tracking, secured with JWT auth and HIPAA-inspired data practices
+- **AI Workflow & Stack:** Symptom collection → NLP entity recognition → disease prediction → confidence analysis → LLM-generated recommendations, powered by React/Tailwind, Node.js/Express, Python/Scikit-learn/TensorFlow/Hugging Face Transformers/Gemini API, and MongoDB
+- **Built for:** Patients, clinics, hospitals, rural healthcare centers & telemedicine platforms *(assistive tool only — not a substitute for professional medical advice)*
+-  🔗 Live demo: [aimedimind.vercel.app](https://aimedimind.vercel.app) 
 
-- **Highlights:** AI symptom checker · medical chatbot · risk assessment · voice input · medical history tracking · JWT-secured, HIPAA-inspired data practices
-- **AI Workflow:** symptom collection → NLP processing/entity recognition → disease prediction → confidence analysis → LLM-generated, personalized recommendations
-- **Stack:** React, Tailwind CSS · Node.js, Express.js · Python, Scikit-learn, TensorFlow, Hugging Face Transformers, Gemini API · MongoDB · Docker, Render, Vercel
-- **Target users:** Patients, clinics, hospitals, rural healthcare centers, telemedicine platforms, medical students
-- ⚠️ *Disclaimer: assistive tool only — not a substitute for professional medical advice.*
-- 🔗 Live demo: *aimedimind.vercel.app* 
-
-#### 🔹 DSA Practice & Problem Solving
-An ongoing collection of solved problems across core topics, used to build strong fundamentals for interviews and real-world engineering.
-- **Topics:** Arrays, Linked Lists, Strings, Hashing, Trees, Graphs, Dynamic Programming
-- 🔗 Repo: *link here*
-
-> 📌 *Pin your best 3–6 repositories on your GitHub profile so visitors see them immediately — go to your profile → Customize your pins.*
 
 ---
 
